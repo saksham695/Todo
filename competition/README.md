@@ -27,3 +27,8 @@ https://facebook-messenger-c2a68.web.app/
 8: Todo list application is designed in such a way to give you better experience on mobile devices also.
 
 9: Green circle indicates that todo is completed , you can also change the complete state to incomplete state by clicking on the todo.
+
+
+## What Not Supported
+
+1: Adding todo while on seach mode is not reccomended.
