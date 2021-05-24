@@ -5,8 +5,7 @@
 
 >yarn start ( to build the project)
 
-## LINK FOR WEBPAGE
-https://facebook-messenger-c2a68.web.app/
+
 
 ## APPLICATION DESCRIPTION
 
